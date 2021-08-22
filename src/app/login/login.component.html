@@ -10,19 +10,20 @@
   <mat-dialog-content>
     <p>
       <mat-form-field>
-        <input matInput #username="ngModel" placeholder="Username" type="text"
-         [(ngModel)]="user.username" name="username" required>
+        <input matInput #username="ngModel" placeholder="Username" type="text" [(ngModel)]="user.username"
+          name="username" required>
         <mat-error *ngIf="username.errors?.required">Username is required</mat-error>
       </mat-form-field>
       <mat-form-field>
-        <input matInput #password="ngModel" placeholder="Password" type="password" 
-        [(ngModel)]="user.password" name="password" required>
+        <input matInput #password="ngModel" placeholder="Password" type="password" [(ngModel)]="user.password"
+          name="password" required>
         <mat-error *ngIf="password.errors?.required">Password is required</mat-error>
       </mat-form-field>
       <mat-checkbox [(ngModel)]="user.remember" name="remember">Remember Me</mat-checkbox>
     </p>
   </mat-dialog-content>
-  <mat-dialog-actions><main></main>
+  <mat-dialog-actions>
+    <main></main>
     <span class="flex-spacer"></span>
     <button mat-button mat-dialog-close>Cancel</button>
     <button type="submit" mat-button class="background-primary text-floral-white"
