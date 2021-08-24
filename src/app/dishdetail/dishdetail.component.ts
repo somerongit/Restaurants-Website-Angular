@@ -12,7 +12,7 @@ import { switchMap } from 'rxjs/operators';
   styleUrls: ['./dishdetail.component.scss']
 })
 export class DishdetailComponent implements OnInit {
-  
+
   dishIds: string[];
   prev: string;
   next: string;
