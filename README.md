@@ -1,3 +1,7 @@
+<!--
+    Title: Restaurants Website in Angular 
+    Author: somerongit (Someron Bakuli) 
+-->
 ## Documentation
 
 [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md)
@@ -15,3 +19,8 @@
  `ng build`
  `ng test` 
  `ng e2e`
+
+<!--
+    Title: Restaurants Website in Angular 
+    Author: somerongit (Someron Bakuli) 
+-->
