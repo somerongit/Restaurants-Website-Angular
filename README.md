@@ -2,6 +2,10 @@
     Title: Restaurants Website in Angular 
     Author: somerongit (Someron Bakuli) 
 -->
+
+
+# Restaurants Website Implemented with Angular
+
 ## Documentation
 
 [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md)
