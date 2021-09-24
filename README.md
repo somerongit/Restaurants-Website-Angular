@@ -4,9 +4,9 @@
 -->
 
 
-# Restaurants Website Implemented with Angular
+# Restaurants Website Implemented with Angular <img width="70px"  src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/angular.gif">
 ### [Demo](https://youtu.be/Ft0a5edCduk)
-
+<img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/project/Angular%20Res.jpg">
 ## Documentation
 
 [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md)
